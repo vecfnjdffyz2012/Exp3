@@ -12,6 +12,7 @@ namespace _10ex
         {
             Console.WriteLine("Пробная синхронизация (изменено 2)");
             Console.WriteLine("Проверка изменений на сервере");
+            Console.WriteLine("Проверка изменений на сервере 2");
         }
     }
 }
